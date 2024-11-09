@@ -1,5 +1,7 @@
 #!/bin/bash
 
+OTNODE_DIR="/root/ot-node"
+
 echo "-----------------------------------------------------------------------------"
 curl -s https://raw.githubusercontent.com/BidyutRoy2/BidyutRoy2/main/logo.sh | bash
 echo "-----------------------------------------------------------------------------"
